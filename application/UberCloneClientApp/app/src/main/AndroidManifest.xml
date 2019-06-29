@@ -16,7 +16,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Tabol"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -61,12 +61,9 @@
             </intent-filter>
         </service>
 
-        <activity android:name=".Activities.RateActivity" />
+
         <activity android:name=".Activities.CallDriver" />
 
-        <meta-data
-            android:name="com.facebook.sdk.ApplicationId"
-            android:value="@string/facebook_app_id" />
     </application>
 
 </manifest>
