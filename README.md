@@ -8,7 +8,7 @@ Make use of:
 - Google APIs (places, maps, location, routes)
 - Retrofit checking
 - Gson
-- Support design
+- Support design lalalalalaa
 
 ## Screenshots
 |Driver Application|Rider Application|

@@ -23,11 +23,11 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class BottomSheetRiderFragment extends BottomSheetDialogFragment {
-    String mLocation, mDestination;
+    String mLocation;
     boolean isTapOnMap;
     IGoogleAPI mService;
-    TextView txtCalculate, txtLocation, txtDestination;
-    public static BottomSheetRiderFragment newInstance(String location, String destination, boolean isTapOnMap){
+    TextView txtLocation;
+    public static BottomSheetRiderFragment newInstance(String location, boolean isTapOnMap){
         BottomSheetRiderFragment fragment=new BottomSheetRiderFragment();
         Bundle args=new Bundle();
         args.putString("location", location);
@@ -87,10 +87,6 @@ public class BottomSheetRiderFragment extends BottomSheetDialogFragment {
                         JSONObject distance = legsObject.getJSONObject("distance");
                         String distanceText = distance.getString("text");
                         Double distanceValue = Double.parseDouble(distanceText.replaceAll("[^0-9\\\\.]", ""));
-
-                        JSONObject time = legsObject.getJSONObject("duration");
-                        String timeText = time.getString("text");
-                        Integer timeValue = Integer.parseInt(timeText.replaceAll("\\D+", ""));
 
 
 
