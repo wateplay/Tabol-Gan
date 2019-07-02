@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Brevi titip\\UberClone-master (1)\\UberClone-master\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "E:\\PR\\Tabol-Gan\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anang\\.gradle\\caches\\transforms-2\\files-2.1\\9b08d3ecadc1f1b00d4c73dd4d85c202\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\MALAU\\.gradle\\caches\\transforms-2\\files-2.1\\77de6008d4952f22053ad6cd93b0c489\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\anang\\.gradle\\caches\\transforms-2\\files-2.1\\3eef3fb7ed6fb3986eb91bc21cb45c44\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\MALAU\\.gradle\\caches\\transforms-2\\files-2.1\\43b1d565fb4752eb1d59aa6e031daa5f\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

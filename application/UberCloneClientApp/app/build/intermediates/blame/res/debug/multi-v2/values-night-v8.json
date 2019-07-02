@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Brevi titip\\UberClone-master (1)\\UberClone-master\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "E:\\PR\\Tabol-Gan\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anang\\.gradle\\caches\\transforms-2\\files-2.1\\9b08d3ecadc1f1b00d4c73dd4d85c202\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\MALAU\\.gradle\\caches\\transforms-2\\files-2.1\\77de6008d4952f22053ad6cd93b0c489\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Brevi titip\\UberClone-master (1)\\UberClone-master\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "E:\\PR\\Tabol-Gan\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anang\\.gradle\\caches\\transforms-2\\files-2.1\\b8df84813985fb365a47e85b26599595\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\MALAU\\.gradle\\caches\\transforms-2\\files-2.1\\87c3741e69dafcaacfc6ff94a3dcee33\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\anang\\.gradle\\caches\\transforms-2\\files-2.1\\9b08d3ecadc1f1b00d4c73dd4d85c202\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\MALAU\\.gradle\\caches\\transforms-2\\files-2.1\\77de6008d4952f22053ad6cd93b0c489\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

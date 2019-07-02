@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Brevi titip\\UberClone-master (1)\\UberClone-master\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+            "outputFile": "E:\\PR\\Tabol-Gan\\application\\UberCloneClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anang\\.gradle\\caches\\transforms-2\\files-2.1\\4abee3a7ce0087137ae5faf45eceb209\\res\\values-es-rES\\values-es-rES.xml",
+                    "source": "C:\\Users\\MALAU\\.gradle\\caches\\transforms-2\\files-2.1\\aa6e062b7eaede68e8b94f0b5bd8012b\\res\\values-es-rES\\values-es-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

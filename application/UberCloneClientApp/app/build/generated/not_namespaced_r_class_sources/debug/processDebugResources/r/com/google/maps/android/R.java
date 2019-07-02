@@ -82,18 +82,18 @@ public final class R {
         public static final int adjust_width = 0x7f08001c;
         public static final int amu_text = 0x7f080020;
         public static final int auto = 0x7f080022;
-        public static final int dark = 0x7f08004d;
-        public static final int hybrid = 0x7f080076;
-        public static final int icon_only = 0x7f080079;
-        public static final int light = 0x7f080087;
-        public static final int none = 0x7f08009c;
-        public static final int normal = 0x7f08009d;
-        public static final int satellite = 0x7f0800be;
-        public static final int standard = 0x7f0800e5;
-        public static final int terrain = 0x7f0800ef;
-        public static final int webview = 0x7f080116;
-        public static final int wide = 0x7f080117;
-        public static final int window = 0x7f080118;
+        public static final int dark = 0x7f08004c;
+        public static final int hybrid = 0x7f080074;
+        public static final int icon_only = 0x7f080077;
+        public static final int light = 0x7f080085;
+        public static final int none = 0x7f08009a;
+        public static final int normal = 0x7f08009b;
+        public static final int satellite = 0x7f0800bb;
+        public static final int standard = 0x7f0800e2;
+        public static final int terrain = 0x7f0800ec;
+        public static final int webview = 0x7f080112;
+        public static final int wide = 0x7f080113;
+        public static final int window = 0x7f080114;
     }
     public static final class integer {
         private integer() {}
@@ -103,9 +103,9 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int amu_info_window = 0x7f0b0021;
-        public static final int amu_text_bubble = 0x7f0b0022;
-        public static final int amu_webview = 0x7f0b0023;
+        public static final int amu_info_window = 0x7f0b0020;
+        public static final int amu_text_bubble = 0x7f0b0021;
+        public static final int amu_webview = 0x7f0b0022;
     }
     public static final class raw {
         private raw() {}

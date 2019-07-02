@@ -1360,7 +1360,6 @@ id btnCallDriver
 id btnLogin
 id btnPickupRequest
 id btnSignin
-id btnSubmit
 id button
 id buttonPanel
 id calligraphy_tag_id
@@ -1412,7 +1411,6 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
-id etComment
 id etEmail
 id etName
 id etPassword
@@ -1499,7 +1497,6 @@ id progress_bar
 id progress_circular
 id progress_horizontal
 id radio
-id ratingBar
 id right
 id right_icon
 id right_side
@@ -1560,7 +1557,6 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView2
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1650,7 +1646,6 @@ layout abc_tooltip
 layout activity_call_driver
 layout activity_home
 layout activity_login
-layout activity_rate
 layout activity_trip_history
 layout amu_info_window
 layout amu_text_bubble
@@ -1682,7 +1677,6 @@ layout dmax_spots_dialog
 layout history_template
 layout layout_login
 layout layout_register
-layout layout_register_phone
 layout layout_update_information
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
